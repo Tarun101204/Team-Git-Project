@@ -5,3 +5,4 @@ URGENT BUG FIXED
 =======
 Improved login validation
 >>>>>>> Stashed changes
+Version 1.1 improvements
